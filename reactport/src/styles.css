@@ -1,0 +1,371 @@
+body{
+  
+  height: 100%; 
+  position: center; 
+  background: #0F0E20;
+}
+.bg{
+  width: 100%;
+  height: 720px; 
+  left: 0px; 
+  top: 0px; 
+  position: absolute
+}
+.asp{
+   color: white; 
+   font-size: 50px; 
+   font-family: "Verdana"; 
+   font-weight: 700; 
+   line-height: 65px;
+   background: linear-gradient(90deg, #FFF 0.01%, #FF7043 171.46%);
+   background-clip: text;
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
+   left: 133px; 
+   top: 263px; 
+   position: absolute; 
+   flex-direction: column; 
+   justify-content: center; 
+   align-items: center; 
+   gap: 60px; 
+   display: inline-flex
+}
+button{
+  color: white; 
+  font-size: 27px; 
+  font-family: Verdana; 
+  font-weight: 500; 
+  line-height: 38.66px; 
+  background: none;
+  border: none;
+}
+button:hover {
+  color: #626BFE;
+}
+.navbar{
+  width: 995px; 
+  left: 253px; 
+  top: 10px; 
+  position: absolute; 
+  justify-content: center; 
+  align-items: center; 
+  gap: 100px; 
+  display: inline-flex
+}
+.space{
+   padding: 10px; 
+   justify-content: flex-start; 
+   align-items: flex-start; 
+   gap: 10px; 
+   display: flex
+}
+.intro{
+  width: 600px; 
+  height: 92px; 
+  left: 566px; 
+  top: 896px; 
+  position: absolute; 
+  color: white; 
+  font-size: 18px; 
+  font-family: Verdana; 
+  font-weight: 400; 
+  line-height: 23.40px; 
+}
+.abtme{
+   left: 596px; 
+   top: 753px; 
+   position: absolute
+}
+.abt{
+   color: white; 
+   font-size: 50px; 
+   font-family: Verdana; 
+   font-weight: 700; 
+   line-height: 65px; 
+}
+.me{
+   color: #626BFE; 
+   font-size: 50px; 
+   font-family: Verdana; 
+   font-weight: 700; 
+   line-height: 65px; 
+}
+.shadowR{
+   left: 516px; top: 720px; 
+   position: absolute; 
+   opacity: 0.10; 
+   text-align: center; 
+   color: white; 
+   font-size: 100px; 
+   font-family: Verdana; 
+   font-weight: 700; 
+   line-height: 130px
+}
+.myed{
+   left: 546px; 
+   top: 1031px; 
+   position: absolute
+}
+.mye{
+   color: white; 
+   font-size: 35px; 
+   font-family: Verdana; 
+   font-weight: 700; 
+   line-height: 45.50px;
+}
+.educ{
+   color: #626BFE; 
+   font-size: 35px; 
+   font-family: Verdana; 
+   font-weight: 700; 
+   line-height: 45.50px
+}
+.educbg{
+   left: 566px; 
+   top: 1090px; 
+   position: absolute;
+   color: white; 
+   font-size: 18px; 
+   font-family: Verdana; 
+   font-weight: 400; 
+   line-height: 23.40px
+}
+.mysk{
+   left: 1095px; 
+   top: 1031px; 
+   position: absolute
+}
+.mys{
+   color: white; 
+   font-size: 30px; 
+   font-family: Verdana; 
+   font-weight: 700; 
+   line-height: 39px
+}
+.skill{
+   color: #626BFE; 
+   font-size: 30px; 
+   font-family: Verdana; 
+   font-weight: 700; 
+   line-height: 39px
+}
+   .s1{
+       width: 60px; 
+       height: 60px; 
+       left: 1097px; 
+       top: 1096px; 
+       position: absolute
+   }
+   .s2{
+       width: 60px; 
+       height: 60px; 
+       left: 1170px; 
+       top: 1096px; 
+       position: absolute
+   }
+   .s3{
+       width: 60px; 
+       height: 60px; 
+       left: 1243px; 
+       top: 1096px; 
+       position: absolute
+   }
+.shadowP{
+  left: 472px; 
+  top: 1440px; 
+  position: absolute; 
+  opacity: 0.10; 
+  text-align: center; 
+  color: white; 
+  font-size: 100px; 
+  font-family: Verdana; 
+  font-weight: 700; 
+  line-height: 130px
+}
+.recta{
+   width: 300px; 
+   height: 400px; 
+   left: 137px;
+    top: 914px; 
+    position: absolute; 
+    background: #626BFE
+}
+.picme{
+    width: 300px; 
+    height: 400px; 
+    left: 168px; 
+    top: 890px; 
+    position: absolute
+}
+.myport{
+   left: 536px; 
+   top: 1473px; 
+   position: absolute
+}
+.my{
+   color: white; 
+   font-size: 50px; 
+   font-family: Verdana; 
+   font-weight: 700; 
+   line-height: 65px;
+}
+.port{
+  color: #626BFE; 
+  font-size: 50px; 
+  font-family: Verdana; 
+  font-weight: 700; 
+  line-height: 65px;
+}
+.line1{
+   width: 1360px; 
+   height: 2px; 
+   left: 80px; 
+   top: 4379px; 
+   position: absolute; 
+   background: rgba(255, 255, 255, 0.15)
+}
+.p1{
+  width: 300px; 
+  height: 650.23px; 
+  left: 950px; 
+  top: 1690px; 
+  position: absolute
+}
+.p2{
+  width: 300px; 
+  height: 650.23px; 
+  left: 600px; 
+  top: 1690px; 
+  position: absolute
+}
+.p3{
+  width: 300px; 
+  height: 650.23px; 
+  left: 250px; 
+  top:1690px; 
+  position: absolute
+}
+.p4{
+  width: 1000px; 
+  height: 644.53px; 
+  left: 250px; 
+  top: 2440px; 
+  position: absolute
+}
+.p5{
+  width: 1000px; 
+  height: 1093.75px; 
+  left: 250px; 
+  top: 3184px; 
+  position: absolute
+}
+.even{
+  left: 536px; 
+  top: 1473px; 
+  position: absolute
+}
+.mycont{
+  left: 590px; 
+  top: 4440px; 
+  position: absolute
+}
+.myc{
+ color: white; 
+ font-size: 50px; 
+ font-family: Verdana; 
+ font-weight: 700; 
+ line-height: 65px
+}
+.cont{
+  color: #626BFE; 
+  font-size: 50px; 
+  font-family: Verdana; 
+  font-weight: 700; 
+  line-height: 65px
+}
+.line2{
+  width: 780px; 
+  height: 0px; 
+  left: 370px; 
+  top: 1611px; 
+  position: absolute; 
+  border: 3px #272636 solid
+}
+.f1{
+ width: 30px; 
+ height: 30px; 
+ left: 653px; 
+ top: 4618px; 
+ position: absolute
+}
+.f2{
+ width: 30px; 
+ height: 30px; 
+ left: 598px; 
+ top: 4659px; 
+ position: absolute
+}
+.f3{
+ width: 40px; 
+ height: 40px; 
+ left: 776px; 
+ top: 4563px; 
+ position: absolute
+}
+.f4{
+ width: 40px; 
+ height: 40px; 
+ left: 704px; 
+ top: 4563px; 
+ position: absolute
+}
+.num{
+  left: 685px; 
+  top: 4621px; 
+  position: absolute; 
+  color: white; 
+  font-size: 18px; 
+  font-family: Verdana; 
+  font-weight: 400; 
+  line-height: 23.40px
+}
+.mail{
+  left: 632px; 
+  top: 4662px; 
+  position: absolute; 
+  color: white; 
+  font-size: 18px; 
+  font-family: Verdana; 
+  font-weight: 400; 
+  line-height: 23.40px
+}
+.navbar2{
+  width: 995px; 
+  left: 253px; 
+  top: 4730px;
+  padding-bottom: 50px;
+  position: absolute; 
+  justify-content: center; 
+  align-items: center; 
+  gap: 100px; 
+  display: inline-flex
+
+}
+#abtmeb{
+ 
+     top: 720px; 
+     position: absolute
+}
+#portb{
+ 
+  top: 1440px; 
+  position: absolute
+}
+#contb{
+  top: 4730px; 
+  position: absolute
+}
+#homeb{
+  top: -5px;
+  position: absolut;
+}
